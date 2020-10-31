@@ -1,5 +1,6 @@
 package com.example.heriprastio.latihanpertama;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
@@ -10,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        Intent objekIntent = new Intent(this, SecondActivity.class);
+        startActivity(objekIntent);
         setContentView(R.layout.activity_main);
         mToyListTextView = findViewById(R.id.tv_toy_names);
 
