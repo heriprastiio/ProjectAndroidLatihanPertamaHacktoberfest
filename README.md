@@ -1,4 +1,6 @@
-# Latihan membuat aplikasi sederhana course online udacity, selesaikan event hacktoberfest hanya run project pada android studio lalu jalankan melalui emulator atau ponsel android, lalu jika ingin menambahkan lainnya seperti activity dan lain sebagainya, lakukan langkah berikut:
+### Latihan membuat aplikasi sederhana course online udacity, selesaikan event hacktoberfest hanya run project pada android studio lalu jalankan melalui emulator atau ponsel android, lalu jika ingin menambahkan lainnya seperti activity dan lain sebagainya, lakukan langkah berikut:
+
+
 
 Pertama lakukan fork.
 
